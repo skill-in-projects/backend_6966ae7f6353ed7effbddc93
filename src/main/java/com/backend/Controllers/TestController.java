@@ -15,7 +15,7 @@ import java.sql.Connection;
 import java.sql.Statement;
 import java.util.List;
 import java.util.Map;
-mjkjhjkdssfמצ
+mjkjhjkdssfjkמצ
 @RestController
 @RequestMapping("/api/test")
 @CrossOrigin(origins = "*")
